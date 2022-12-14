@@ -1,2 +1,2 @@
 # FAQ_Android-Helper
-This repo contain all the error and issue I've faced  with solution
+This repo contain the solution for all the Error and Issue I've faced before and in Production time.
