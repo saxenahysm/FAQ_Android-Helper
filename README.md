@@ -6,5 +6,8 @@ This repo contain the solution for all the Error and Issue I've faced before and
     - java.security.cert.CertificateException
     - java.security.cert.CertPathValidatorException:
     - Solution is [here][0]
+
+
+
    [0]: https://github.com/saxenahysm/CertPathValidatorException
 
