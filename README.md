@@ -6,8 +6,9 @@ This repo contain the solution for all the Error and Issue I've faced before and
     - java.security.cert.CertificateException
     - java.security.cert.CertPathValidatorException:
     - Solution is [here][0]
-
+- Top 15 Portfolios [url][1]
 
 
    [0]: https://github.com/saxenahysm/CertPathValidatorException
 
+[1]: https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
