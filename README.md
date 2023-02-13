@@ -8,6 +8,11 @@ This repo contain the solution for all the Error and Issue I've faced before and
     - Solution is [here][0]
 - Top 15 Portfolios [url][1]
 - [Android Background Service Blog](https://www.vogella.com/tutorials/AndroidServices/article.html)
+- Payment Gateways with Example code
+    - [BillDesk-Payment-Gateway-Integration](https://github.com/saxenahysm/billdesk-payment-gateway)
+    - [PayU-Money-Payment-Gateway-Integration](https://github.com/saxenahysm/PayU-Money-Android-Java)
+    - [Razorpay-payment-gateway-Integration](https://github.com/saxenahysm/Rayzorpay-demo)
+    - [Razorpay-payment-gateway-Integration-Flutter](https://github.com/saxenahysm/flutter_widgets_-_apicall)
 
 
    [0]: https://github.com/saxenahysm/CertPathValidatorException
