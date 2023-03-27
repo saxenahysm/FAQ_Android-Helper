@@ -13,6 +13,7 @@ This repo contain the solution for all the Error and Issue I've faced before and
     - [PayU-Money-Payment-Gateway-Integration](https://github.com/saxenahysm/PayU-Money-Android-Java)
     - [Razorpay-payment-gateway-Integration](https://github.com/saxenahysm/Rayzorpay-demo)
     - [Razorpay-payment-gateway-Integration-Flutter](https://github.com/saxenahysm/flutter_widgets_-_apicall)
+-  Configuration 'provided' is obsolete and has been replaced with 'compileOnly'.
 
 
    [0]: https://github.com/saxenahysm/CertPathValidatorException
